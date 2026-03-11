@@ -10,6 +10,7 @@ export default function Home() {
       <div style = {{margin: "20px", display: "flex", flexDirection: "row", flexWrap: "wrap",
         justifyContent:"flex-start", alignContent:"space-around"}}>
         <Card/>
+        
       </div>
     </main>
   );
