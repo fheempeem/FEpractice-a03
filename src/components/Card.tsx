@@ -14,7 +14,7 @@ export default function ProductCard() {
             <div className = {styles.cardtext}>
                 Machu Picchu
                 <div className = {styles.cardsubtext}>
-                This is a picture of Machu Picchuu.
+                This is a picture of Machu Picchu.
                 </div>
             </div>
             
